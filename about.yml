@@ -1,0 +1,13 @@
+---
+name: Danil Duborezov
+job: QA Engineer
+level: junior
+email: ygra.pl@gmail.com
+description: glad to be in the Hexlet
+
+skills:
+  - функциональное тестирование
+  - написание багрепортов
+  - Linux
+  - английский язык C1
+  - Git
